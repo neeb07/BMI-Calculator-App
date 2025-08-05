@@ -1,16 +1,43 @@
-# flutternewproject
+# 🧘‍♀️ BMI Calculator App
 
-A new Flutter project.
+A clean and modern BMI calculator app built using **Flutter**, inspired by the beautiful design concept by [Ruben Vaalt on Dribbble](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Design Inspiration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The app closely follows the visual style from the [Dribbble Design Shot](https://dribbble.com/shots/4585382-Simple-BMI-Calculator), including:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dark background theme
+- Rounded cards
+- Bold, clean fonts
+- Bright red accent for buttons and highlights
+
+---
+
+## 🧱 Features
+
+- 🎛️ Adjustable height and weight sliders
+- 📐 Real-time BMI calculation
+- 💡 Result screen showing BMI value and category
+- 🖼️ Custom reusable card and button widgets
+- 🌀 Cross-platform support (Android & iOS)
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Dart SDK
+- Android Studio / VS Code / any Flutter-supported IDE
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/BMI-Calculator-App.git
+cd BMI-Calculator-App
+flutter pub get
+flutter run
